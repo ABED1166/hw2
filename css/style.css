@@ -1,0 +1,37 @@
+body{
+  background-color: #150050;
+}
+h1{
+  color:#EDEDED;
+font-family: 'Sacramento', cursive}
+ul{
+  color: #EDEDED;
+}
+th{
+  color: #;
+}
+h2{
+  color:#2192FF;
+  font-family: 'Caveat', cursive;
+}
+ul{
+  color: #EDEDED;
+}
+
+hr{
+  border-style:dotted ;
+  border-top:2px dotted  #EDEDED ;
+  width: ;
+}
+img{
+  width:250px;
+  border-radius: 50%;
+  high:500px;
+}
+td{
+  color: #EDEDED;
+font-family:    'Caveat', cursive;
+}
+li{
+  font-family: 'Caveat', cursive;
+}
